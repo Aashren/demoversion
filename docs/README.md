@@ -2,6 +2,7 @@
 
 heroImage: "/images/ecubelogo/ecubelogo.png"
 heroImageDark: "/images/ecubelogo/ecubelogo.png"
+home: "true"
 Alt: "ECube"
 heroText:  
 heroAlt: "ECube"
