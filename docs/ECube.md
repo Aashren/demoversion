@@ -281,7 +281,7 @@ satellite online, which is great for communicating with ECube.
 <br>
 
 <div style="text-align: center;">
-<img src ="@source/.vuepress/.temp/pics/esp8266.jpg" style="text-align: center;">
+<img src ="@source/.vuepress/public/images/esp8266.jpg" style="text-align: center;">
 </div>
 <br>
 
@@ -597,7 +597,7 @@ that can be done from Arduino library.
 
 <br>
 <div style="text-align: center;">
-<img src ="@source/.vuepress/.temp/pics/Dht.png" style="text-align: center;">
+<img src ="@source/.vuepress/public/images/Dht.png" style="text-align: center;">
 </div>
 
 
@@ -634,7 +634,7 @@ has 4 pins, i.e VIN, GND, SDA, SCL Connect the VIN pin to the 5V/3.3V voltage pi
 <br>
 
 <div style="text-align: center;">
-<img src ="@source/.vuepress/.temp/pics/BMP.jpg" style="text-align: center;">
+<img src ="@source/.vuepress/public/images/BMP.jpg" style="text-align: center;">
 </div>
 
 
@@ -702,7 +702,7 @@ several types such as fluxgate, magnetoresistive, magneto-inductive and others.
 <br>
 
 <div style="text-align: center;">
-<img src ="@source/.vuepress/.temp/pics/Gy271.png" style="text-align: center;">
+<img src ="@source/.vuepress/public/images/Gy271.png" style="text-align: center;">
 </div>
 
 
@@ -754,7 +754,7 @@ Wire the ESP8266 to the MPU-6050 sensor as shown in the following schematic diag
 
 <br>
 <div style="text-align: center;">
-<img src ="@source/.vuepress/.temp/pics/gy5.jpg" style="text-align: center;">
+<img src ="@source/.vuepress/public/images/gy5.jpg" style="text-align: center;">
 </div>
 
 

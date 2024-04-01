@@ -654,7 +654,7 @@ There are different types of CubeSat orbits that can be used for different missi
 <br>
 
 <div style="text-align: center;">
-<img src ="@source/.vuepress/.temp/pics/KP.png" style="text-align: center;">
+<img src ="@source/.vuepress/public/images/KP.png" style="text-align: center;">
 </div>
 
 <div style="position: relative; min-height: 10vh;">

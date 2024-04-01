@@ -110,7 +110,7 @@ CubeSats are also expected to play a larger role in the field of space-based Int
 <br>
 <br>
 
-<img src ="@source/.vuepress/.temp/pics/nan.png">
+<img src ="@source/.vuepress/public/images/nan.png">
 
 <div style="position: relative; min-height: 10vh;">
    <p style="position: absolute; width: 100%; text-align: center;">
@@ -154,7 +154,7 @@ compared to the former which was a 3U CubeSat ([4]).
 <br>
 <br>
 <div style="text-align:center;">
-<img src ="@source/.vuepress/.temp/pics/cubesats.png">
+<img src ="@source/.vuepress/public/images/cubesats.png">
 </div>
 
 <div style="position: relative; min-height: 10vh;">
@@ -193,7 +193,7 @@ orbit selection is also limited because that is also determined by the launchers
 <br>
 <br>
 <div style="text-align: center;">
-<img src ="@source/.vuepress/.temp/pics/stat.png" style="text-align: center;">
+<img src ="@source/.vuepress/public/images/stat.png" style="text-align: center;">
 </div>
 <div style="position: relative; min-height: 10vh;">
    <p style="position: absolute; width: 100%; text-align: center;">

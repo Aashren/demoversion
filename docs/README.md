@@ -48,19 +48,19 @@ actions:
     <div class="contact-info">
         <table caption="Get in Touch">
             <tr>
-                <td style="font-size: 20px;"><img src="./.vuepress/.temp/pics/mapicon.jpg" width="25" height="25"> Location:</td>
+                <td style="font-size: 20px;"><img src="./.vuepress/public/images/mapicon.jpg" width="25" height="25"> Location:</td>
             </tr>
             <tr>
                 <td style="padding-left: 45px;">Lazimpat, Kathmandu, Nepal</td>
             </tr>
             <tr>
-                <td style="font-size: 20px;"><img src="./.vuepress/.temp/pics/emailicon.png" width="20" height="20"> Email:</td>
+                <td style="font-size: 20px;"><img src="./.vuepress/public/images/emailicon.png" width="20" height="20"> Email:</td>
             </tr>
             <tr>
                 <td style="padding-left: 45px; color: red;"><a href="mailto:info@antarikchya.org.np">info@antarikchya.org.np</a></td>
             </tr>
             <tr>
-                <td style="font-size: 20px;"><img src="./.vuepress/.temp/pics/phone-icon.png" width="20" height="20"> Call:</td>
+                <td style="font-size: 20px;"><img src="./.vuepress/public/images/phone-icon.png" width="20" height="20"> Call:</td>
             </tr>
             <tr>
                 <td style="padding-left: 45px;"><a href="tel:+9779869397707">+977 9869397707</a></td>
