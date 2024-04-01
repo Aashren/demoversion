@@ -1,4 +1,1 @@
----
-home: true
----
-<Redirect to="/docs/README.md" />
+# title of this page is 
