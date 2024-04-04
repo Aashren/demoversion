@@ -35,7 +35,6 @@ actions:
 <br>
 
 <h1 style="text-align:center" id="CU2"> Contact Us</h1>
-<h2> Hello there!</h2>
 <br>
 <br>
 <hr>
@@ -43,8 +42,8 @@ actions:
 <br>
 
 
-<div class="containerss" style="text-align:center; ">
-    <div class="map">
+
+  <div class="map">
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3531.7120044461094!2d85.31881231493136!3d27.726176982784015!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x468f402dc3c5fe18!2zMjfCsDQzJzM0LjIiTiA4NcKwMTknMTUuNiJF!5e0!3m2!1sen!2snp!4v1649667581089!5m2!1sen!2snp" width="500" height="350" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
     <div class="contact-info">
@@ -69,7 +68,7 @@ actions:
             </tr>
         </table>
     </div>
-</div>
+
 
 <br>
 <br>
